@@ -6,13 +6,12 @@ my test2
 
 my test3
 
-<<<<<<< HEAD
+
 my main1
 
 my main2
-my feature1
-=======
+
 my feature1
 
 my feature2
->>>>>>> 61f0fe5 (2)
+
